@@ -1,0 +1,6 @@
+{
+  "name": "Founder Compass",
+  "description": "Evidence-driven diagnostic and execution platform for solo and early-stage founders to identify core business bottlenecks and run systematic experiments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
